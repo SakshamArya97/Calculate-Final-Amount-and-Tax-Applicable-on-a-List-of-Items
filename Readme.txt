@@ -56,6 +56,6 @@ Run the command and the output shall be something similar to the following:
 }
 
 This is a screenshot of the entire POSTMAN setup for the API.
-![](compute_tax_and_final_bill_amount.png)
+![](Calculate-Final-Amount-and-Tax-Applicable-on-a-List-of-Items/compute_tax_and_final_bill_amount.png)
 
 THANK YOU!
