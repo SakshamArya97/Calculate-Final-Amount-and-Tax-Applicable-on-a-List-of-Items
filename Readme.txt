@@ -55,4 +55,7 @@ Run the command and the output shall be something similar to the following:
     "Total Tax": 303.0
 }
 
+This is a screenshot of the entire POSTMAN setup for the API.
+![](compute_tax_and_final_bill_amount.PNG)
+
 THANK YOU!
